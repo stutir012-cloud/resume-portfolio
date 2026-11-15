@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 900" role="img" aria-labelledby="title desc">
+  <title id="title">Stuti Rai profile placeholder</title>
+  <desc id="desc">A stylized portrait illustration for a personal profile photo slot.</desc>
+  <defs>
+    <linearGradient id="bgGrad" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#f3dfd1"/>
+      <stop offset="100%" stop-color="#c5d6da"/>
+    </linearGradient>
+    <linearGradient id="shirtGrad" x1="0" x2="1">
+      <stop offset="0%" stop-color="#1e2228"/>
+      <stop offset="100%" stop-color="#0d1116"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="900" fill="url(#bgGrad)"/>
+  <circle cx="400" cy="360" r="170" fill="#f0d2ba"/>
+  <path d="M255 295c7-103 88-180 181-180s176 89 180 190c-35-35-72-62-116-73-62-15-144-7-245 63Z" fill="#1a1818"/>
+  <path d="M280 770c18-115 73-168 118-168 109 0 156 84 176 168H280Z" fill="url(#shirtGrad)"/>
+  <path d="M326 255c24-30 66-48 101-49 59 0 108 36 129 93-39-11-61-16-111-16-46 0-85 12-119 34-10-22-6-42 0-62Z" fill="#2b1d1a"/>
+  <path d="M332 398c28 18 54 27 68 27 38 0 79-22 104-48-1 80-52 163-111 163-67 0-118-75-118-166 13 11 34 23 57 24Z" fill="#f0d2ba"/>
+  <circle cx="355" cy="401" r="7" fill="#211c1b"/>
+  <circle cx="453" cy="401" r="7" fill="#211c1b"/>
+  <path d="M347 482c34 27 74 27 110 0" stroke="#a85144" stroke-width="8" fill="none" stroke-linecap="round"/>
+  <path d="M315 738c30-60 81-75 147-75 62 0 113 16 148 75" fill="none" stroke="#30373d" stroke-width="18" stroke-linecap="round"/>
+</svg>
